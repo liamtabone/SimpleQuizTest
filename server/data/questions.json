@@ -1,0 +1,221 @@
+[{
+    "question": "In which continent are Chile, Argentina and Brazil?",
+    "CorrectId": "3",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "North America"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Asia"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "South America"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Europe"
+        }
+    ]
+},
+{
+    "question": " What measurement scale is used to determine wind speed?",
+    "CorrectId": "2",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "Beaufort scale"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Richter scale"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Synoptic scale"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Gusting scale"
+        }
+    ]
+},
+{
+    "question": "The Statue of Liberty was a gift to the United States from which country?",
+    "CorrectId": "4",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "Malta"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "England"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Australia"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "France"
+        }
+    ]
+},
+{
+    "question": "Which female holds the most Wimbledon titles?",
+    "CorrectId": "1",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "Martina Navratilova"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Serena Williams"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Venus Williams"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Martina Hingis"
+        }
+    ]
+},
+{
+    "question": "What is one of the national languages of Canada?",
+    "CorrectId": "3",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "German"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Spanish"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "English"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Canadian"
+        }
+    ]
+},
+{
+    "question": "Which of these EU countries does not use the euro as its currency?",
+    "CorrectId": "1",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "Poland"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Italy"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Malta"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Germany"
+        }
+    ]
+},
+{
+    "question": "What element does the chemical symbol Au stand for?",
+    "CorrectId": "4",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "Silver"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Magnesium"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Salt"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Gold"
+        }
+    ]
+},
+{
+    "question": "What is the highest-grossing Broadway show of all time?",
+    "CorrectId": "1",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "The Lion King"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Wicked"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Kinky Boots"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Hamilton"
+        }
+    ]
+},
+{
+    "question": "On average, how many seeds are located on the outside of a strawberry?",
+    "CorrectId": "2",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "10"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "200"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "800"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "3000"
+        }
+    ]
+},
+{
+    "question": "Which fast food restaurant has the largest number of retail locations in the world?",
+    "CorrectId": "4",
+    "Choices": [
+        {
+            "ChoiceId": "1",
+            "Text": "McDonald’s"
+        },
+        {
+            "ChoiceId": "2",
+            "Text": "Jack In The Box"
+        },
+        {
+            "ChoiceId": "3",
+            "Text": "Chipotle"
+        },
+        {
+            "ChoiceId": "4",
+            "Text": "Subway"
+        }
+    ]
+}]
+    

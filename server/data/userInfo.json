@@ -1,0 +1,20 @@
+[
+ {
+  "username": "User1",
+  "percentageScore": 70,
+  "numOfCorrectAnswers": 7,
+  "numOfQuestions": 10
+ },
+ {
+  "username": "User2",
+  "percentageScore": 60,
+  "numOfCorrectAnswers": 6,
+  "numOfQuestions": 10
+ },
+ {
+  "username": "User3",
+  "percentageScore": 20,
+  "numOfCorrectAnswers": 2,
+  "numOfQuestions": 10
+ }
+]

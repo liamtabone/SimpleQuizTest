@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package main;
+
+option go_package = "./proto";
+
+message Choice {
+	string ChoiceId = 1; 
+	string Text = 2;
+}
+
+message Question {
+	int32 QuestionId = 1;
+	string Text = 2;
+	repeated Choice Choices = 3;
+}
+
+message Answer {
+	string Username = 1;
+	int32 QuestionId = 2;
+    string AnswerId = 3;
+}
+
+message Empty {
+
+}
+
+message Result {
+	float Percentile = 1;
+}
+
+message User {
+	string Username = 1;
+}
+
+service SimpleQuizService {
+	rpc newUser(User) returns (Empty) {}
+    rpc GetQuestion(User) returns (Question) {}
+	rpc GetAnswer(Answer) returns (Empty) {} // Should return ok?
+	rpc GetResult(User) returns (Result) {}
+}
