@@ -1,15 +1,13 @@
-Generate proto files (note that these have been generated and included in the Zip file) :
-    export PATH="$PATH:$(go env GOPATH)/bin"
-    protoc --proto_path=proto proto/*.proto --go_out=gen
-    protoc --proto_path=proto proto/*.proto --go-grpc_out=ge
+Get code:
+    git clone https://github.com/liamtabone/SimpleQuizTest
 
 Build server:
     cd server
-    go build *.go
+    go build .
 
 Build client (from project root folder)):
     cd client
-    go build *.go
+    go build .
 
 Run server (from project root folder)):
     cd server
